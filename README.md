@@ -33,7 +33,7 @@ It’s built to help banks or loan officers make quick decisions based on user i
 | `test_lAUu6dG.csv`        | Test dataset                              |
 | `loan_predictions_output.csv` | Final predictions on test data      |
 | `README.md`               | You're reading it!                        |
-| `requirements.txt`        | (Optional) List of required packages      |
+| `requirements.txt`        | List of required packages      |
 
 ---
 
