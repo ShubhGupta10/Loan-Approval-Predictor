@@ -106,5 +106,5 @@ This project is designed to help beginners learn and grow. If you find something
 
 **Shubh Gupta**
 
-- 📫 [LinkedIn](#https://www.linkedin.com/in/shubh-gupta-3b1b5a30b/)
-- 💻 [GitHub](#https://github.com/ShubhGupta10)
+- 📫 [LinkedIn](https://www.linkedin.com/in/shubh-gupta-3b1b5a30b/)
+- 💻 [GitHub](https://github.com/ShubhGupta10)
